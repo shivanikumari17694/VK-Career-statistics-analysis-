@@ -18,5 +18,5 @@ Excel / CSV – Data source
 DAX (Data Analysis Expressions) – Calculations and measures
 
 Screenshot/Demo
-Show what the Dashboard look like.
-Example
+Show what the Dashboard look like.https://github.com/shivanikumari17694/VK-Career-statistics-analysis-/blob/main/VK%20%20analysis%20Dashboard.png
+
